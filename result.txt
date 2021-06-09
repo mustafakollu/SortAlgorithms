@@ -1,0 +1,256 @@
+********COMB SORT********
+
+Type= Average. Size= 64. Time difference: 1189000 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 64. Time difference: 1263600 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 64. Time difference: 953400 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 64. Time difference: 4572900 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 64. Time difference: 1204600 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 64. Time difference: 72400 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 64. Time difference: 1145900 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 64. Time difference: 923200 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 64. Time difference: 2442800 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 64. Time difference: 89300 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 128. Time difference: 228000 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 128. Time difference: 1879800 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 128. Time difference: 2287500 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 128. Time difference: 8308800 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 128. Time difference: 705500 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 128. Time difference: 172900 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 128. Time difference: 5129800 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 128. Time difference: 3930600 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 128. Time difference: 2104100 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 128. Time difference: 171200 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 256. Time difference: 634100 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 256. Time difference: 7847000 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 256. Time difference: 7477800 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 256. Time difference: 11867200 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 256. Time difference: 450000 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 256. Time difference: 370100 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 256. Time difference: 6368400 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 256. Time difference: 11522600 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 256. Time difference: 10732800 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 256. Time difference: 87200 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 512. Time difference: 1244900 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 512. Time difference: 1440500 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 512. Time difference: 10862300 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 512. Time difference: 103424900 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 512. Time difference: 212200 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 512. Time difference: 1228000 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 512. Time difference: 1382500 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 512. Time difference: 2526300 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 512. Time difference: 103527600 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 512. Time difference: 159300 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 1024. Time difference: 4334400 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 1024. Time difference: 4556100 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 1024. Time difference: 8158200 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 1024. Time difference: 328235200 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 1024. Time difference: 782800 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 1024. Time difference: 1923100 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 1024. Time difference: 8331700 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 1024. Time difference: 5312400 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 1024. Time difference: 339383400 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 1024. Time difference: 575000 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 2048. Time difference: 3996800 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 2048. Time difference: 12890300 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 2048. Time difference: 16582600 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 2048. Time difference: 2956843400 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 2048. Time difference: 1373600 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 2048. Time difference: 1022600 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 2048. Time difference: 26061400 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 2048. Time difference: 28367500 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 2048. Time difference: 2825668100 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 2048. Time difference: 788100 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 4096. Time difference: 1159900 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 4096. Time difference: 58723600 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 4096. Time difference: 69629300 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 4096. Time difference: 27034954300 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 4096. Time difference: 3232100 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 4096. Time difference: 923300 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 4096. Time difference: 128581800 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 4096. Time difference: 103534300 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 4096. Time difference: 26538681300 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 4096. Time difference: 1855800 nanosecond.
+
+********COMB SORT********
+
+Type= Average. Size= 8192. Time difference: 2689000 nanosecond.
+
+********GNOME SORT********
+Type= Average. Size= 8192. Time difference: 232336600 nanosecond.
+
+********COCKTAIL SORT********
+Type= Average. Size= 8192. Time difference: 320592900 nanosecond.
+
+********STOOGE SORT********
+Type= Average. Size= 8192. Time difference: 231688822500 nanosecond.
+
+********BITONIC SORT********
+Type= Average. Size= 8192. Time difference: 5996800 nanosecond.
+
+********COMB SORT********
+
+Type= Worst. Size= 8192. Time difference: 1089200 nanosecond.
+
+********GNOME SORT********
+Type= Worst. Size= 8192. Time difference: 400162000 nanosecond.
+
+********COCKTAIL SORT********
+Type= Worst. Size= 8192. Time difference: 345371200 nanosecond.
+
+********STOOGE SORT********
+Type= Worst. Size= 8192. Time difference: 219217758300 nanosecond.
+
+********BITONIC SORT********
+Type= Worst. Size= 8192. Time difference: 3850900 nanosecond.
+
